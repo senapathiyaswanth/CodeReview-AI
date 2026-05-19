@@ -9,6 +9,12 @@
 
 ---
 
+## 🚀 Live Demo & Deployment
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsenapathiyaswanth%2FCodeReview-AI)
+
+**Live Demo:** [https://codereview-ai-demo.vercel.app](https://codereview-ai-demo.vercel.app) *(Update this link after deploying via Vercel)*
+
 ## ✨ Features
 
 - **AI Code Review** — Powered by GPT-4o, analyzes bugs, security, performance, and readability
